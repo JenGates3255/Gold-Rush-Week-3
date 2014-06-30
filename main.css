@@ -5,4 +5,15 @@
 #map {
 	width: 900px;
 	height: 1000px;
+	position:relative;
+}
+.button{
+	position:absolute;
+	background-image:url(http://sweetclipart.com/multisite/sweetclipart/files/pot_of_gold_coins.png);
+	background-repeat: no-repeat;
+	background-size:20px 20px; 
+	width:20px;
+	height:20px;
+	z-index: 999;
+	
 }
