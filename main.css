@@ -1,0 +1,8 @@
+/*body {
+	background-image: url(https://raw.githubusercontent.com/RefactorU/exercise-starters/master/client-js/gold-rush/topo-co.jpg);
+	background-size: contain;
+}*/
+#map {
+	width: 900px;
+	height: 1000px;
+}
